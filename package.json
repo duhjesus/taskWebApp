@@ -1,0 +1,25 @@
+{
+  "name": "taskwebapp",
+  "version": "1.0.0",
+  "description": "small list of tasks",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duhjesus/taskWebApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duhjesus/taskWebApp/issues"
+  },
+  "homepage": "https://github.com/duhjesus/taskWebApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongojs": "^2.6.0"
+  }
+}
